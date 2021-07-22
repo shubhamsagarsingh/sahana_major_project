@@ -52,7 +52,7 @@ const Home = () => {
                         </div>
 
                         <div className='container_level1_level2_bottom' id='map'>
-                            <img/>
+                            <img alt=''/>
                         </div>
                     </div>
                 </div>
