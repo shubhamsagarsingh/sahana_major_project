@@ -21,7 +21,7 @@ const Home = () => {
                             </select><br/><br/>
 
                                             
-                            <label for='place'>Area</label><br/>
+                            <label for='place'>Areas</label><br/>
                             <select id="place" onChange={Populate2}>
                                 <option value='' disabled selected>SELECT PLACE</option>
                             </select>
